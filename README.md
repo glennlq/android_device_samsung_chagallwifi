@@ -1,0 +1,2 @@
+# android_device_samsung_chagallwifi
+android_device_samsung_chagallwifi
